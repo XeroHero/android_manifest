@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://android.googlesource.com/" name="aosp" review="https://android-review.googlesource.com/"/>
-  <remote fetch="https://github.com/khadas/" name="github"/>
+  <remote fetch="https://github.com/xerohero/" name="github"/>
   
-  <default remote="github" revision="refs/heads/Vim" sync-j="4"/>
+  <default remote="github" revision="refs/heads/Vim" sync-j="6"/>
   
   <project name="u-boot" path="uboot" revision="00abf8b32b1f1171cf8a97fb852cf79c54d7b1ef"/>
   <project name="linux" path="common" revision="76fd19ac41bb774e396ce8009ff665f29c26c535"/>

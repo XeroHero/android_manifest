@@ -366,40 +366,40 @@
   <project name="android_hardware_ril" path="hardware/ril" revision="d33397bed7bab16991d2a9d83d84d157b1e02b29"/>
   <project name="android_libnativehelper" path="libnativehelper" revision="b7a25286026b49f0f7d95b25f2d32c4f47f498ef"/>
   <project name="android_ndk" path="ndk" revision="e6403c6a048bdec5a7fc7c6c0cc149fc5f098f80"/>
-<!--   <project name="android_packages_apps_BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="ca086947d0ee669bd807472d626b9a752d0e6c2e"/> -->
-<!--   <project name="android_packages_apps_Calendar" path="packages/apps/Calendar" revision="916259681ce2216d95c05a5064ed71d0b0d7f422"/> -->
-<!--   <project name="android_packages_apps_Camera" path="packages/apps/Camera" revision="33c59af04ab44eff0e3806f140d472252300646a"/> -->
-<!--   <project name="android_packages_apps_CarrierConfig" path="packages/apps/CarrierConfig" revision="32a3bfad2532a6aaa94a55232c8212d2cbca721d"/> -->
-<!--   <project name="android_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="29ce13c8d656d231c34c37689fd89b97d975b909"/> -->
+  <project name="android_packages_apps_BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="ca086947d0ee669bd807472d626b9a752d0e6c2e"/>
+  <project name="android_packages_apps_Calendar" path="packages/apps/Calendar" revision="916259681ce2216d95c05a5064ed71d0b0d7f422"/>
+  <project name="android_packages_apps_Camera" path="packages/apps/Camera" revision="33c59af04ab44eff0e3806f140d472252300646a"/>
+  <project name="android_packages_apps_CarrierConfig" path="packages/apps/CarrierConfig" revision="32a3bfad2532a6aaa94a55232c8212d2cbca721d"/>
+  <project name="android_packages_apps_CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="29ce13c8d656d231c34c37689fd89b97d975b909"/>
   <project name="android_packages_apps_CertInstaller" path="packages/apps/CertInstaller" revision="cab79670a3342ce04a5bd6d76c35c2746e405c3f"/>
-<!--   <project name="android_packages_apps_ContactsCommon" path="packages/apps/ContactsCommon" revision="3f2006aaea4449af53e76964355c8274ab1d55cb"/> -->
-<!--   <project name="android_packages_apps_DeskClock" path="packages/apps/DeskClock" revision="68ae2f02f9b61c1105854411c57b7b5c3fdfc7b6"/> -->
-<!--   <project name="android_packages_apps_Dialer" path="packages/apps/Dialer" revision="22b81946ee6e8e9ad34e7c0fd210ba45450e3281"/> -->
-<!--   <project name="android_packages_apps_Email" path="packages/apps/Email" revision="6bee168115a24c5d710e2ee8db58a6559b4292eb"/> -->
-<!--   <project name="android_packages_apps_ExactCalculator" path="packages/apps/ExactCalculator" revision="cfec547a42db55ba7c7c88d959f7f9f249ca0661"/> -->
-<!--   <project name="android_packages_apps_FMRadio" path="packages/apps/FMRadio" revision="0b6bd77456380d9d6a9ed43ab734b2aaa4d5b03d"/> -->
-<!--   <project name="android_packages_apps_Gallery" path="packages/apps/Gallery" revision="69083e2ac7c924edd662969e4e4b800a80eb0554"/> -->
+  <project name="android_packages_apps_ContactsCommon" path="packages/apps/ContactsCommon" revision="3f2006aaea4449af53e76964355c8274ab1d55cb"/>
+  <project name="android_packages_apps_DeskClock" path="packages/apps/DeskClock" revision="68ae2f02f9b61c1105854411c57b7b5c3fdfc7b6"/>
+  <project name="android_packages_apps_Dialer" path="packages/apps/Dialer" revision="22b81946ee6e8e9ad34e7c0fd210ba45450e3281"/>
+  <project name="android_packages_apps_Email" path="packages/apps/Email" revision="6bee168115a24c5d710e2ee8db58a6559b4292eb"/>
+  <project name="android_packages_apps_ExactCalculator" path="packages/apps/ExactCalculator" revision="cfec547a42db55ba7c7c88d959f7f9f249ca0661"/>
+  <project name="android_packages_apps_FMRadio" path="packages/apps/FMRadio" revision="0b6bd77456380d9d6a9ed43ab734b2aaa4d5b03d"/>
+  <project name="android_packages_apps_Gallery" path="packages/apps/Gallery" revision="69083e2ac7c924edd662969e4e4b800a80eb0554"/>
   <project name="android_packages_apps_HTMLViewer" path="packages/apps/HTMLViewer" revision="3ad9f99e685393bfa2925046f4ec070fd25bd839"/>
-<!--   <project name="android_packages_apps_InCallUI" path="packages/apps/InCallUI" revision="a94a1179714f6a79a6d9d7ae542458b8e6d742e7"/> -->
+  <project name="android_packages_apps_InCallUI" path="packages/apps/InCallUI" revision="a94a1179714f6a79a6d9d7ae542458b8e6d742e7"/>
   <project name="android_packages_apps_KeyChain" path="packages/apps/KeyChain" revision="bbdf253cf21c31940e3fda795ddfc63bd8edc104"/>
   <project name="android_packages_apps_LegacyCamera" path="packages/apps/LegacyCamera" revision="8e2f0e48cb3d2209f1cf818b6cf8c4bd95645783"/>
   <project name="android_packages_apps_ManagedProvisioning" path="packages/apps/ManagedProvisioning" revision="c70c2096cb387b2326855d06d3cf1108e6d865a3"/>
   <project name="android_packages_apps_Messaging" path="packages/apps/Messaging" revision="1bc276100f18e5092b4bc270add5902c1de29356"/>
-<!--   <project name="android_packages_apps_MusicFX" path="packages/apps/MusicFX" revision="c1e5bdca5c2f6d46682d4e2a251bb3e28aaf8d6b"/> -->
+  <project name="android_packages_apps_MusicFX" path="packages/apps/MusicFX" revision="c1e5bdca5c2f6d46682d4e2a251bb3e28aaf8d6b"/>
   <project name="android_packages_apps_Nfc" path="packages/apps/Nfc" revision="259df7f9f3a96f62646d398664369d179a1bd126"/>
   <project name="android_packages_apps_OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="01e429c08e51291315890de9677151a7e0b6ad35"/>
-<!--   <project name="android_packages_apps_Phone" path="packages/apps/Phone" revision="79731f02b7009206a01182d2cca15dfc8491da09"/>
+  <project name="android_packages_apps_Phone" path="packages/apps/Phone" revision="79731f02b7009206a01182d2cca15dfc8491da09"/>
   <project name="android_packages_apps_PhoneCommon" path="packages/apps/PhoneCommon" revision="09365362dfcea82652e9e32f0596aa89ec3bbf04"/> -->
-<!--   <project name="android_packages_apps_Protips" path="packages/apps/Protips" revision="ec5d268260d97499dd45849e29e8c4f5e75dd539"/> -->
+  <project name="android_packages_apps_Protips" path="packages/apps/Protips" revision="ec5d268260d97499dd45849e29e8c4f5e75dd539"/>
   <project name="android_packages_apps_Provision" path="packages/apps/Provision" revision="78ca0db658fe6253d506916e36319e620476f809"/>
-<!--   <project name="android_packages_apps_QuickSearchBox" path="packages/apps/QuickSearchBox" revision="3ba0f015d44a71494d10daad5a6f5b487b6b7bf5"/> -->
+  <project name="android_packages_apps_QuickSearchBox" path="packages/apps/QuickSearchBox" revision="3ba0f015d44a71494d10daad5a6f5b487b6b7bf5"/>
   <project name="android_packages_apps_SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
-<!--   <project name="android_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" revision="09e95e1c241e5bab17ba0a31a8694ef7f2a6e784"/> -->
+  <project name="android_packages_apps_SoundRecorder" path="packages/apps/SoundRecorder" revision="09e95e1c241e5bab17ba0a31a8694ef7f2a6e784"/>
   <project name="android_packages_apps_SpareParts" path="packages/apps/SpareParts" revision="4db997871e3f4c3f84660815096e5276b47c5c91"/>
-<!--   <project name="android_packages_apps_SpeechRecorder" path="packages/apps/SpeechRecorder" revision="5ffb51412f2642a50035e66a7f870ffbc4beb071"/> -->
+  <project name="android_packages_apps_SpeechRecorder" path="packages/apps/SpeechRecorder" revision="5ffb51412f2642a50035e66a7f870ffbc4beb071"/>
   <project name="android_packages_apps_Tag" path="packages/apps/Tag" revision="14bc1eb604d9d2f8af479c08c3a403d2018647f1"/>
   <project name="android_packages_apps_Terminal" path="packages/apps/Terminal" revision="5b68e8ad082625206492ca9baf889f8c5427eb01"/>
-<!--   <project name="android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" revision="1597214da0e22eca37df1d6b025a164464499035"/> -->
+  <project name="android_packages_apps_UnifiedEmail" path="packages/apps/UnifiedEmail" revision="1597214da0e22eca37df1d6b025a164464499035"/>
   <project name="android_packages_experimental" path="packages/experimental" revision="7b02b6bbaf0b4330ac05fda8cd47f4044ee2740a"/>
   <project name="android_packages_inputmethods_OpenWnn" path="packages/inputmethods/OpenWnn" revision="59aefa242169b7a51c2381daee58ff22fd1834ce"/>
   <project name="android_packages_providers_ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="33d26f5eedb3d3011762ce5b2de66e931bf64b35"/>
